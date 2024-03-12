@@ -3,3 +3,5 @@
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+- [ ] create task list
+- [ ] finish assignment 3
